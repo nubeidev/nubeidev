@@ -2,7 +2,7 @@
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on noob dev's
-- 📫 How to reach me work@immortal2006.me
+- 📫 How to reach me contact@swarnabha.xyz
 
 <!---
 nubeidev/nubeidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
